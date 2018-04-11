@@ -1,5 +1,6 @@
 [group]
-192.168.33.71
+192.168.33.113
+192.168.33.112
 # This is the default ansible 'hosts' file.
 #
 # It should live in /etc/ansible/hosts
